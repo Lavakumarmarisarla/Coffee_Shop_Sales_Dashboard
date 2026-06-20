@@ -61,7 +61,8 @@ The project includes data cleaning, SQL analysis, KPI calculations, and an inter
 
 ## 📷 Dashboard Preview
 
-![Coffee Shop Dashboard](images/dashboard.png)
+![Coffee Shop Dashboard](<img width="1166" height="722" alt="Screenshot 2026-06-20 172008" src="https://github.com/user-attachments/assets/f98fce25-b895-4cf0-bc22-ccd163b24199" />
+)
 
 ---
 
