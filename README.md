@@ -61,7 +61,7 @@ The project includes data cleaning, SQL analysis, KPI calculations, and an inter
 
 ## 📷 Dashboard Preview
 
-![Coffee Shop Dashboard]()
+![Coffee Shop Dashboard](https://github.com/Lavakumarmarisarla/Coffee_Shop_Sales_Dashboard/blob/main/Coffee%20Shop%20Sales%20Dashboard%20Screenshot.png)
 
 ---
 
