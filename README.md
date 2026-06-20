@@ -114,5 +114,5 @@ Coffee-Shop-Sales-Analysis/
 Aspiring Data Analyst | Data Science Learner
 
 LinkedIn: www.linkedin.com/in/lavakumarmarisarla
-<br>
+
 GitHub: https://github.com/Lavakumarmarisarla
