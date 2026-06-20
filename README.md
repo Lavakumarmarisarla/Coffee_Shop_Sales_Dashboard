@@ -110,8 +110,8 @@ Coffee-Shop-Sales-Analysis/
 
 ## Author
 
-**Lavakumar Marisarla**
+**Lavakumar Marisarla**  
+Aspiring Data Analyst | Data Science Learner
 
-GitHub: Add your GitHub profile link
-
-LinkedIn: Add your LinkedIn profile link
+LinkedIn: www.linkedin.com/in/lavakumarmarisarla
+GitHub: https://github.com/Lavakumarmarisarla
